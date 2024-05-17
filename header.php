@@ -8,7 +8,7 @@
     <title>EJMS</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+      <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
       <link href="assets/css/docs.css" rel="stylesheet"/>
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->

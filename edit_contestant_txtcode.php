@@ -33,7 +33,7 @@
 </header>
 
 
-<div class="container">
+<div class="container section-container">
 
 <div class="span12">
 

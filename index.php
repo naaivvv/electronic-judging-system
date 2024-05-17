@@ -25,7 +25,7 @@
     
 <header class="jumbotron subhead" id="overview">
   <div class="container">
-    <h1>Judging Management System</h1>
+    <h1>Electronic Judging System</h1>
     <p class="lead">Ready to serve you...</p>
   </div>
 </header>
@@ -33,7 +33,7 @@
 
 
 
-    <div class="container">
+    <div class="container" style="min-height:60vh; display:flex; align-items:center; justify-content:center">
     
       
       
@@ -44,7 +44,7 @@
                 <div class="modal-content">
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                        <h4 class="modal-title" id="Login">About Judging Management System</h4>
+                        <h4 class="modal-title" id="Login">About Electronic Judging System</h4>
                     </div>
                     <div class="modal-body">
                     
@@ -57,8 +57,8 @@
                     </tr>
                     
                     <tr>
-                    <td align="right">Original Developer:</td>
-                    <td><strong> Emilio B. Magtolis Jr.</strong> - Software and Web Developer</td>
+                    <td align="right">Developer:</td>
+                    <td><strong>Jericho Drilon BSIS 3-A</td>
                     </tr>
       
                     
@@ -68,7 +68,7 @@
                     
                     <tr>
                     <td align="right">Email:</td>
-                    <td><strong> emiloimagtolis@gmail.com</strong></td>
+                    <td><strong> jerichodrilon@gmail.com</strong></td>
                     </tr>
                     
                     <tr>
@@ -77,23 +77,20 @@
                     
                     <tr>
                     <td align="right">Mobile Number:</td>
-                    <td><strong> +639303546547</strong></td>
+                    <td><strong> +639123456789</strong></td>
                     </tr>
                     
                     <tr>
                     <td>&nbsp;</td>
                     </tr>
                     
-                    <tr>
-                    <td align="right">Website:</td>
-                    <td><a href="https://www.bee4ten.ml" target="_blank"><strong> www.bee4ten.ml</strong></a></td>
-                    </tr>
+
         
                     </table>
                     
            
                     <br />
-                    <p>This is project source code copy is a modified copy and modified by other developer. The modified copy is available @ <a href="https://sourcecodester.com">sourcecodester.com</a>.</p>
+                    <p>This is project source code made in requirements for school.</p>
 
                         <hr />
                         <p class="text-center text-muted"><button class="btn btn-default" data-dismiss="modal" aria-hidden="true"><strong>Close</strong></button></p>
@@ -110,10 +107,10 @@
  <br />  
  <table cellpadding="10" cellspacing="0" border="0" align="center">
  <thead>
- <th align="center" style="background-color: #6A8CAF; text-indent: 7px; color: white; "><h4>USER LOGIN</h4></th>
+ <th align="center" style="background-color: #10a34e; text-indent: 7px; color: white; "><h4>USER LOGIN</h4></th>
  </thead>
  
- <tr style="background-color: #b0c7de;">
+ <tr style="background-color: #97e7b8;">
  
  <td>
  
@@ -125,7 +122,7 @@
   <input style="font-size: large; height: 35px !important; text-indent: 7px !important;" class="form-control btn-block" type="password"  name="password" placeholder="Password" required="true" autofocus="true" />
 <br /><br />
  
-  <button style="width: 160px !important;" type="submit" class="btn btn-primary pull-right"><i class="icon-ok"></i> <strong>LOGIN</strong></button>
+  <button style="width: 160px !important;" type="submit" class="btn btn-success pull-right"><i class="icon-ok"></i> <strong>LOGIN</strong></button>
   <strong>Register <a href="create_account.php">here &raquo;</a></strong> &nbsp;&nbsp;&nbsp; 
   
  </td>
@@ -150,7 +147,7 @@
     <footer class="footer">
       <div class="container">
       
-        <font size="2" class="pull-left"><strong>Judging Management System &COPY; <?= date("Y") ?>  </strong></font> <br />
+        <font size="2" class="pull-left"><strong>Electronic Judging System &COPY; <?= date("Y") ?>  </strong></font> <br />
         
       </div>
     </footer>

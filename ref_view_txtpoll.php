@@ -20,7 +20,7 @@
  
 
 
-  <div class="container">
+  <div class="container section-container">
 
     <!-- Docs nav
     ================================================== -->

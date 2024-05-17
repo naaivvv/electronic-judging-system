@@ -20,10 +20,10 @@
 <header class="jumbotron subhead" id="overview">
   <div class="container">
     <h1>Account Registration</h1>
-    <p class="lead">Judging Management System</p>
+    <p class="lead">Electronic Judging System</p>
   </div>
 </header>
-    <div class="container">
+    <div class="container section-container">
 
   <div class="col-lg-3">
  
@@ -109,7 +109,7 @@
     <footer class="footer">
       <div class="container">
  
-        <font size="2" class="pull-left"><strong>Judging Management System &middot; &COPY; <?= date ("Y") ?></strong> </font> <br />
+        <font size="2" class="pull-left"><strong>Electronic Judging System &middot; &COPY; <?= date ("Y") ?></strong> </font> <br />
        
       </div>
     </footer>      

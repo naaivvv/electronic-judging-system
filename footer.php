@@ -4,7 +4,7 @@
       <div class="container">
       <center>
       
-      <font size="4">Judging Management System &COPY; <?= date('Y') ?> </font>
+      <font size="4">Electronic Judging System &COPY; <?= date('Y') ?> </font>
       <hr />
       
       

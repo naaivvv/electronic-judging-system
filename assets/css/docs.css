@@ -93,7 +93,8 @@ hr.soften {
   color: #fff;
   text-align: center;
   text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
-  background: #7C99AC; /* Old browsers */
+  /* background: #7C99AC; Old browsers */
+  background: #10a34e;
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#001995', endColorstr='#5E79FD',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
   -webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
      -moz-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
@@ -1080,17 +1081,18 @@ form.bs-docs-example {
   }
 }
 .navbar-inverse .navbar-inner {
-  background: #11324D !important;
+  background: #0a6b32 !important;
+  border-color: #0a6430 !important;
 }
 .alert-organizer-login{
-  background: #7895B2 !important;
+  background: #49afcd !important;
   color: #f6f6f6 !important;
 }
 .alert-organizer-login h4{
   color: #f6f6f6 !important;
 }
 .alert-judge-login{
-  background: #3caeac !important;
+  background: #5bb75b !important;
   color: #f6f6f6 !important;
 }
 .alert-judge-login h4{
@@ -1098,8 +1100,17 @@ form.bs-docs-example {
 }
 
 button.btn.btn-success[data-target="#judge"] {
-  background: #54BAB9 !important;
+  background: #54ba65 !important;
 }
 button.btn.btn-success[data-target="#judge"]:hover {
-  background: #4ec1bf !important;
+  background: #469b54 !important;
+}
+
+.section-container {
+  min-height: 40vh;
+}
+
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+  color: #ffffff;
+  background-color: #10a34e;
 }

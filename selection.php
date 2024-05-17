@@ -22,7 +22,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-               <a class="brand" href="#"><img src="uploads/<?php echo $company_logo; ?>" width="23" height="23" />&nbsp; <font size="3">Judging Management System</font></a>
+               <a class="brand" href="#"><img src="uploads/<?php echo $company_logo; ?>" width="23" height="23" />&nbsp; <font size="3">Electronic Judging System</font></a>
           <div class="nav-collapse collapse">
             <ul class="nav">
 
@@ -40,11 +40,11 @@
 <header class="jumbotron subhead" id="overview">
   <div class="container">
     <h1>User Selection Panel</h1>
-    <p class="lead">Judging Management System</p>
+    <p class="lead">Electronic Judging System</p>
   </div>
 </header>
  
- <div class="container">
+ <div class="container section-container">
  
  <hr />
  
@@ -205,7 +205,7 @@ if(isset($_POST['org_panel']))
     ?>
                 <script>
                 window.location = 'selection.php';
-                alert('wrong pass');						
+                alert('Wrong password! Pleases try again');						
                 </script>
 <?php  
   } } ?>  

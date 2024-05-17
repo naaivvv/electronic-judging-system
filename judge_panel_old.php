@@ -59,7 +59,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-               <a class="brand" href="#"><img src="uploads/<?php echo $company_logo; ?>" width="23" height="23" />&nbsp; <font size="3">Judging Management System</font></a>
+               <a class="brand" href="#"><img src="uploads/<?php echo $company_logo; ?>" width="23" height="23" />&nbsp; <font size="3">Electronic Judging System</font></a>
           <div class="nav-collapse collapse">
             <ul class="nav">
  
@@ -119,7 +119,7 @@
 <tr>
 <td>
 <h1 style="color: whitesmoke !important;">Judge's Panel</h1>
-<h4 style="color: whitesmoke !important;">Judging Management System</h4>
+<h4 style="color: whitesmoke !important;">Electronic Judging System</h4>
 </td>
 </tr>
 </table>
@@ -134,7 +134,7 @@
 <tr>
 <td>
 <h1 style="color: whitesmoke !important;">Judge's Panel - <font color="red"><?php echo $j_name; ?></font></h1>
-<h4 style="color: whitesmoke !important;">Judging Management System</h4>
+<h4 style="color: whitesmoke !important;">Electronic Judging System</h4>
 </td>
 </tr>
 </table>
@@ -145,7 +145,7 @@
 
 
 
-  <div class="container"> <div class="row"> <div class="span12">
+  <div class="container section-container"> <div class="row"> <div class="span12">
  
   
         
@@ -488,7 +488,7 @@ if($getContestant_id=="allTally")
                                         <div class="container">
                                           <center>
                                           
-                                          <font size="4">Judging Management System &middot; &COPY; <?= date ("Y") ?></font>
+                                          <font size="4">Electronic Judging System &middot; &COPY; <?= date ("Y") ?></font>
                                           <hr />
                                           
                                           

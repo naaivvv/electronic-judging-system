@@ -30,7 +30,7 @@ $se_row = $se_query->fetch();
           <span class="icon-bar"></span>
         </button>
         <a class="brand" href="#"><img src="uploads/<?php echo $company_logo; ?>" width="23" height="23" />&nbsp; <font
-            size="3">Judging Management System</font></a>
+            size="3">Electronic Judging System</font></a>
         <div class="nav-collapse collapse">
           <ul class="nav">
 
@@ -86,12 +86,12 @@ $se_row = $se_query->fetch();
       <h1>
         <?php echo $se_name; ?> Settings
       </h1>
-      <p class="lead">Judging Management System</p>
+      <p class="lead">Electronic Judging System</p>
     </div>
   </header>
 
 
-  <div class="container">
+  <div class="container section-container">
 
 
 

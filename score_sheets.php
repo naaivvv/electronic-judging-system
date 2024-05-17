@@ -57,7 +57,7 @@ div.panel {
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-             <a class="brand" href="#"><img src="uploads/<?php echo $company_logo; ?>" width="23" height="23" />&nbsp; <font size="3">Judging Management System</font></a> 
+             <a class="brand" href="#"><img src="uploads/<?php echo $company_logo; ?>" width="23" height="23" />&nbsp; <font size="3">Electronic Judging System</font></a> 
  
           <div class="nav-collapse collapse">
             <ul class="nav">
@@ -128,7 +128,7 @@ div.panel {
 <header class="jumbotron subhead" id="overview">
   <div class="container">
     <h1>Score Sheets</h1>
-  <p class="lead">Judging Management System</p>
+  <p class="lead">Electronic Judging System</p>
   </div>
 </header>
 <?php  } else {?>
@@ -136,12 +136,12 @@ div.panel {
 
   <div class="container">
     <h1>Score Sheets</h1>
-  <p class="lead">Judging Management System - Tabulator's Panel</p>
+  <p class="lead">Electronic Judging System - Tabulator's Panel</p>
   </div>
 </header>       
 <?php } ?>
 
-  <div class="container">
+  <div class="container section-container">
 
    
     <div class="row">

@@ -28,12 +28,12 @@
 <header class="jumbotron subhead" id="overview">
   <div class="container">
     <h1><?php echo $se_name; ?> Settings</h1>
-    <p class="lead">Judging Management System</p>
+    <p class="lead">Electronic Judging System</p>
   </div>
 </header>
  
 
-<div class="container">
+<div class="container section-container">
 
 <div class="span12">
 

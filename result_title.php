@@ -120,7 +120,7 @@ while ($s_event_row = $s_event_query->fetch())
  
 
 
-  <div class="container">
+  <div class="container section-container">
 
     <!-- Docs nav
     ================================================== -->
